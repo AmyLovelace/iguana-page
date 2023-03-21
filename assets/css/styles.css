@@ -60,6 +60,7 @@ h1{
     padding: 30px 0;
     text-align: center;
     margin-top: 3em;
+    margin-bottom: 3em;
 }
 
 .iconos{
@@ -78,12 +79,32 @@ h1{
     background-color: #1E1A13;
     font-size: 47px;
 }
-.far{
-    color: #fff;
-    background-color: #1E1A13;
+.galeria{
+    padding-left: 18em;
+    padding-right: 13em;
+   
 }
+.galeria-iguana{
+    
+    display: inline-block;
+   
+   
+
+}
+.galeria img{
+   
+    width: 19vw;
+    max-height: 20vh;
+    padding: 2em;
+    
+    
+}
+
+
+.far,
 .fas{
     color: #fff;
     background-color: #1E1A13;
 }
+
 
