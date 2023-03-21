@@ -90,12 +90,8 @@ h1{
     margin-top: 7rem;
 }
 .galeria{
-    padding-left: 65rem;
-    padding-right: 0px;
-    padding-bottom: 10rem;
-    padding-top:10rem;
-   
-    
+    padding:10rem 0rem 10rem 65rem; 
+    width: max-content; 
 }
 .galeria-iguana{
     display: inline-block;
@@ -103,7 +99,7 @@ h1{
 .galeria img{
     width: 19vw;
     max-height: 20vh;
-    padding: 2em; 
+    padding-left: 5rem;
 }
 .far,
 .fas{
@@ -123,4 +119,5 @@ footer p{
     color: #fff;
     background-color: #1E1A13;
     font-size:4rem ;
+    font-weight: lighter;
 }
