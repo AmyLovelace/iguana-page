@@ -22,7 +22,7 @@ h1{
     color: #ffffff;
     text-align: center;
     font-weight: 500;
-    font-size: 10em;
+    font-size: 150px;
 }
 .img-header img{
     width: 100vw;
@@ -35,19 +35,18 @@ h1{
 }
 .container{
     width: 80%;
-    padding-left: 55em;
-    padding-right: 10em;
-    padding-top: 2em;
+    padding: 100px 800px;
     margin: 0px;
 }
 .descripcion-img{
     width: 30%;
     display: inline-block;
     vertical-align: middle;
-    padding:10rem 10rem 10rem 25rem;   
+    padding:20px ;   
 }
 .descripcion-img img{
-    width: 80%;     
+    width: 100%;
+    margin-left: 100px;     
 }
 .texto{
     width: 40%;
@@ -59,7 +58,7 @@ h1{
 }
 .icon-section{
     background-color: #1E1A13;
-    padding: 20rem 0;
+    padding: 100px 0;
     text-align: center;
     margin-top: 3em;
     margin-bottom: 3em;
@@ -90,16 +89,21 @@ h1{
     margin-top: 7rem;
 }
 .galeria{
-    padding:10rem 0rem 10rem 65rem; 
-    width: max-content; 
+    margin: 0 auto;
+    width: 75%;
+    padding: 80px 0;
+    
 }
 .galeria-iguana{
+    
+    width: 30%;
     display: inline-block;
+    margin: 0 5px;
 }
-.galeria img{
-    width: 19vw;
-    max-height: 20vh;
-    padding-left: 5rem;
+.galeria-iguana img{
+    width: 50%;
+    height: 500px; 
+
 }
 .far,
 .fas{
