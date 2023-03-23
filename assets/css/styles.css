@@ -91,18 +91,23 @@ h1{
 .galeria{
     margin: 0 auto;
     width: 75%;
-    padding: 80px 0;
+    padding: 30px 0;
+    align-content:space-evenly ;
+
     
 }
 .galeria-iguana{
     
     width: 30%;
     display: inline-block;
-    margin: 0 5px;
+    margin: 0 40px;
+    margin-bottom: 40px;
 }
 .galeria-iguana img{
-    width: 50%;
-    height: 500px; 
+    width: 60%;
+    height: 600px;
+    padding-left: 400px;
+
 
 }
 .far,
