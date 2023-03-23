@@ -95,7 +95,7 @@ h1{
     
     width: 30%;
     display: inline-block;
-    margin: 0 40px;
+    margin: 40px 40px ;
     margin-bottom: 40px;
 }
 .galeria-iguana img{
@@ -121,4 +121,7 @@ footer p{
     background-color: #1E1A13;
     font-size:4rem ;
     font-weight: lighter;
+}
+footer a:hover{
+    color:#8cfd6dc0 ;
 }
