@@ -59,27 +59,21 @@ h1{
 .icon-section{
     background-color: #1E1A13;
     padding: 100px 0;
-    text-align: center;
-    margin-top: 3em;
-    margin-bottom: 3em;
-    
+    text-align: center;   
 }
 
 .iconos{
-    margin: 7rem auto 6rem;
+    margin: 80px auto 80px;
     display: inline-block;
     width: 30%;
-    font-size: 5rem;
-    
+    font-size: 60px;
     background-color: #1E1A13;
-    
 }
 .iconos p{
     background-color: #1E1A13;
     color: #fff;
-    font-size: 5rem;
-    padding-top: 3rem   
-    
+    font-size: 80px;
+    padding-top: 60px;   
 }
 .iconos .fas:hover,
 .far:hover
@@ -88,8 +82,8 @@ h1{
 .titulo-iconos{
     color: #fff;
     background-color: #1E1A13;
-    font-size: 9rem;
-    margin-top: 7rem;
+    font-size: 150px;
+    margin-top: 70px;
 }
 .galeria{
     margin: 0 auto;
