@@ -78,9 +78,12 @@ h1{
     background-color: #1E1A13;
     color: #fff;
     font-size: 5rem;
-    padding-top: 3rem;
+    padding-top: 3rem   
     
-    
+}
+.iconos .fas:hover,
+.far:hover
+{ color: #8cfd6dc0;
 }
 .titulo-iconos{
     color: #fff;
@@ -92,9 +95,7 @@ h1{
     margin: 0 auto;
     width: 75%;
     padding: 30px 0;
-    align-content:space-evenly ;
-
-    
+      
 }
 .galeria-iguana{
     
@@ -105,16 +106,13 @@ h1{
 }
 .galeria-iguana img{
     width: 60%;
-    height: 600px;
-    padding-left: 400px;
-
-
+    height: 650px;
+    padding-left: 350px;
 }
 .far,
 .fas{
     color: #fff;
-    background-color: #1E1A13;
-    
+    background-color: #1E1A13;   
 }
 footer {
     background-color: #1E1A13;
