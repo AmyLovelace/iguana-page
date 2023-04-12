@@ -12,7 +12,7 @@ body{
 }
 
 .nav-bar{
-    height: 7vh;
+    height: 5vh;
     color: #fff;
     background-color: #000;
     position: fixed;
@@ -22,7 +22,7 @@ h1{
     color: #ffffff;
     text-align: center;
     font-weight: 500;
-    font-size: 150px;
+    font-size: 4rem;
 }
 .img-header img{
     width: 100vw;
@@ -35,7 +35,7 @@ h1{
 }
 .container{
     width: 80%;
-    padding: 100px 800px;
+    padding:4rem 4rem;
     margin: 0px;
 }
 .descripcion-img{
@@ -49,9 +49,9 @@ h1{
     margin-left: 100px;     
 }
 .texto{
-    width: 40%;
+    width: 50%;
     display: inline-block;
-    font-size:60px;
+    font-size: rem;
     font-weight: normal;
     text-align: left;
     vertical-align: middle;
@@ -66,13 +66,13 @@ h1{
     margin: 80px auto 80px;
     display: inline-block;
     width: 30%;
-    font-size: 60px;
+    font-size: 2rem;
     background-color: #1E1A13;
 }
 .iconos p{
     background-color: #1E1A13;
     color: #fff;
-    font-size: 80px;
+    font-size: 3rem;
     padding-top: 60px;   
 }
 .iconos .fas:hover,
@@ -82,7 +82,7 @@ h1{
 .titulo-iconos{
     color: #fff;
     background-color: #1E1A13;
-    font-size: 150px;
+    font-size: 3rem;
     margin-top: 70px;
 }
 .galeria{
